@@ -1,5 +1,25 @@
-$color: blue;
+@import "~normalize.css";
 
+@import "header";
+@import "toolbar";
+@import "formula";
+@import "table";
+@import "dashbord";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
-    background: $color;
+    font-size: 12px;
+}
+
+.excel{
+    position: relative;
+    color: #888;
+    height: 100%;
+    max-width: 100%;
+    font-size: .8rem;
+
 }
