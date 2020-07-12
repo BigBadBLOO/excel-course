@@ -6,7 +6,8 @@
     "node": true
   },
   "rules": {
-    "arrow-parens": "off"
+    "arrow-parens": "off",
+    "require-jsdoc": "off"
   },
   "extends": [
     "eslint:recommended", "google"
