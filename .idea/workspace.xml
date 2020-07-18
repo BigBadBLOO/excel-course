@@ -1,118 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="38d1e67b-fa87-4d40-a14e-b66c4e8b1e12" name="Default Changelist" comment="" />
+    <list default="true" id="38d1e67b-fa87-4d40-a14e-b66c4e8b1e12" name="Default Changelist" comment="git init resize">
+      <change afterPath="$PROJECT_DIR$/src/components/table/table.functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/table/table.resize.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/table/Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/table/Table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/table/table.template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/table/table.template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/table.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="580" />
-    <option name="y" value="80" />
-    <option name="width" value="782" />
-    <option name="height" value="735" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1ejuMdh737LpuolgimYE9ds1JCf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="excelCourse" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Ефим\PycharmProjects\excelCourse" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="excelCourse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="excelCourse" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/excel/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="npm.start" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38d1e67b-fa87-4d40-a14e-b66c4e8b1e12" name="Default Changelist" comment="" />
+      <created>1594847276082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594847276082</updated>
+      <workItem from="1594847277221" duration="795000" />
+      <workItem from="1595094443833" duration="227000" />
+      <workItem from="1595094689650" duration="9227000" />
+    </task>
+    <task id="LOCAL-00001" summary="git init resize">
+      <created>1594847568267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594847568267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git init resize" />
+    <option name="LAST_COMMIT_MESSAGE" value="git init resize" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="228" y="242" width="611" height="630" key="#JavaScript" timestamp="1595100229856">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="228" y="242" width="611" height="630" key="#JavaScript/72.27.1848.1053@72.27.1848.1053" timestamp="1595100229856" />
+    <state width="868" height="340" key="GridCell.Tab.0.bottom" timestamp="1595095528260">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="868" height="340" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1595095528260" />
+    <state width="868" height="340" key="GridCell.Tab.0.center" timestamp="1595095528260">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="868" height="340" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1595095528260" />
+    <state width="868" height="340" key="GridCell.Tab.0.left" timestamp="1595095528259">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="868" height="340" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1595095528259" />
+    <state width="868" height="340" key="GridCell.Tab.0.right" timestamp="1595095528260">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="868" height="340" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1595095528260" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1595102555637">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1595102555637" />
+    <state x="591" y="275" width="800" height="563" key="Vcs.Push.Dialog.v2" timestamp="1594847571988">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="275" width="800" height="563" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1594847571988" />
   </component>
 </project>
