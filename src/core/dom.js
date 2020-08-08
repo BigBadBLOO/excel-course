@@ -38,6 +38,10 @@ class Dom {
     return this.$el.getBoundingClientRect();
   }
 
+  find(selector) {
+    return $(this.$el.querySelector(selector));
+  }
+
   findAll(selector) {
     return this.$el.querySelectorAll(selector);
   }
@@ -46,6 +50,25 @@ class Dom {
     Object.keys(styles).forEach(key => {
       this.$el.style[key] = styles[key];
     });
+  }
+
+  addClass(className) {
+    this.$el.classList.add(className);
+  }
+
+  removeClass(className) {
+    this.$el.classList.remove(className);
+  }
+
+  id(parse) {
+    if (parse) {
+      const parsed = this.id().split(':');
+      return {
+        row: parsed[0],
+        col: parsed[1],
+      };
+    }
+    return this.data.id;
   }
 
   append(node) {
@@ -57,6 +80,11 @@ class Dom {
     } else {
       this.$el.appendChild(node);
     }
+    return this;
+  }
+
+  focus() {
+    this.$el.focus();
     return this;
   }
 }
