@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="38d1e67b-fa87-4d40-a14e-b66c4e8b1e12" name="Default Changelist" comment="git init resize" />
+    <list default="true" id="38d1e67b-fa87-4d40-a14e-b66c4e8b1e12" name="Default Changelist" comment="git init resize">
+      <change afterPath="$PROJECT_DIR$/src/components/table/TableSelection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/table/Table.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/table/Table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/table/table.functions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/table/table.functions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/table/table.template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/table/table.template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/ExcelComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/ExcelComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/utils.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +42,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ejuMdh737LpuolgimYE9ds1JCf" />
@@ -91,6 +105,9 @@
       <workItem from="1594847277221" duration="795000" />
       <workItem from="1595094443833" duration="227000" />
       <workItem from="1595094689650" duration="9227000" />
+      <workItem from="1595177437530" duration="7705000" />
+      <workItem from="1596918570518" duration="12000" />
+      <workItem from="1596918602843" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="git init resize">
       <created>1594847568267</created>
